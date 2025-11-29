@@ -1,0 +1,14 @@
+FAVICON INSTRUCTIONS
+===================
+
+The website references a favicon.jpg file. To complete the setup:
+
+1. Create or download a favicon image (recommended size: 32x32 or 64x64 pixels)
+2. Save it as "favicon.jpg" in the root directory
+3. The favicon should relate to the shipping/fragile packages theme
+
+Alternative: You can convert any image to JPG format and name it favicon.jpg
+
+The favicon is referenced in all HTML files with:
+<link rel="icon" type="image/jpeg" href="favicon.jpg">
+

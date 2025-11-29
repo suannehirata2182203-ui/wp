@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.fragileshippingguide.com/sitemap.xml
+
+Disallow: /script.js
+Disallow: /styles.css
+
